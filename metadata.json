@@ -1,0 +1,7 @@
+{
+  "name": "Dr. Youssef Boulaich - Dental Clinic",
+  "description": "A high-end, responsive dental clinic website for Dr. Youssef Boulaich featuring appointment booking, services showcase, and location mapping.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
